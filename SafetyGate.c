@@ -8,6 +8,7 @@ IF sv_bInitDone THEN
     END_IF;     
 END_IF;
 // Core In out 
+// With added interlock of core and movement
 FOR  i := 1 TO 8 DO
     bNoFUCoreIn[i]:= TRUE;
     bNoFUCoreOut[i] := TRUE;
