@@ -1,3 +1,4 @@
+//Only want to check modification from git
 //Wait init lock groups data
 IF sv_bInitDone THEN
     iCnt := iCnt+1;
