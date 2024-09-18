@@ -15,8 +15,8 @@
     
 // DO ejector bwd state DO ejector backward state
 ;
-do_DummyLog : BOOL
-    %DISPLAY_LEVEL 1
+ do_DummyLog : BOOL
+     %DISPLAY_LEVEL 1
 //Only use for changes in git
 ;
 %END
